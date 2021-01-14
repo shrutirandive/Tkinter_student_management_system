@@ -1,2 +1,2 @@
 # Tkinter_student_management_system
-student management system using tkinter(python) 
+CRUD operation GUI project using Tkinter and sqlite3 
