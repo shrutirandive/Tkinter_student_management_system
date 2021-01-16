@@ -1,7 +1,13 @@
 # Tkinter_student_management_system
-CRUD operation with validations
-Display of my current location and temperature. 
-Displays a bar chart for top 5 students having highest marks using Tkinter and sqlite3 
+* CRUD operation with validations.
+* Display of my current location and temperature.
+* Displays a bar chart for top 5 students having highest marks. 
+* Quote of the present day.
+* Using:
+  * Tkinter ->GUI
+  * SQLite3 ->PDBC
+  * Beautiful Soup(data extraction) -> Quote of the day
+  * Matplotlib ->Bar chart
 
 ![Screenshot project1](https://user-images.githubusercontent.com/54211989/104578479-cb354280-5680-11eb-957c-82b13e6ec8c0.png)
 
