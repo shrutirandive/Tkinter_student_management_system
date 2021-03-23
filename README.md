@@ -1,5 +1,5 @@
 # Tkinter_student_management_system
-* CRUD operation with validations.
+* CRUD operation with validations(exception handling).
 * Display of my current location and temperature.
 * Displays a bar chart for top 5 students having highest marks. 
 * Quote of the present day.
