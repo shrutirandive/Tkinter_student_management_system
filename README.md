@@ -8,6 +8,8 @@
   * SQLite3 ->PDBC
   * Beautiful Soup(data extraction) -> Quote of the day
   * Matplotlib ->Bar chart
+  
+Run this project using cmd: `python project.py` 
 
 ![Screenshot project1](https://user-images.githubusercontent.com/54211989/104578479-cb354280-5680-11eb-957c-82b13e6ec8c0.png)
 
@@ -32,3 +34,5 @@ Delete student data
 Bar chart for top 5 students
 
 ![charts](https://user-images.githubusercontent.com/54211989/104579059-7d6d0a00-5681-11eb-8eac-ea9946b9860f.png)
+
+
